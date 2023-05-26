@@ -1,0 +1,126 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.aisle"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.example.aisle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.example.aisle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:8:5-38:19
+21        android:name="com.example.aisle.MyApplication"
+21-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:9:9-38
+22        android:allowBackup="true"
+22-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:11:9-65
+25        android:debuggable="true"
+26        android:extractNativeLibs="false"
+27        android:fullBackupContent="@xml/backup_rules"
+27-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:12:9-54
+28        android:icon="@mipmap/ic_launcher"
+28-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:13:9-43
+29        android:label="@string/app_name"
+29-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:14:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:15:9-54
+31        android:supportsRtl="true"
+31-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:16:9-35
+32        android:theme="@style/Theme.Aisle" >
+32-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:17:9-43
+33        <activity
+33-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:19:9-25:20
+34            android:name="com.example.aisle.presenter.views.MainActivity"
+34-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:20:13-57
+35            android:exported="true"
+35-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:21:13-36
+36            android:label="@string/title_activity_main"
+36-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:22:13-56
+37            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+37-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:23:13-72
+38        </activity>
+39        <activity
+39-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:26:9-34:20
+40            android:name="com.example.aisle.presenter.views.LoginActivity"
+40-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:27:13-58
+41            android:exported="true" >
+41-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:28:13-36
+42            <intent-filter>
+42-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:29:13-33:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:30:17-69
+43-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:30:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:32:17-77
+45-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:32:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:35:9-37:40
+49            android:name="com.example.aisle.presenter.views.OtpActivity"
+49-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:36:13-56
+50            android:exported="false" />
+50-->C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:37:13-37
+51
+52        <uses-library
+52-->[androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+53            android:name="androidx.window.extensions"
+53-->[androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+54            android:required="false" />
+54-->[androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+55        <uses-library
+55-->[androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+56            android:name="androidx.window.sidecar"
+56-->[androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+61            android:authorities="com.example.aisle.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+69        </provider>
+70    </application>
+71
+72</manifest>

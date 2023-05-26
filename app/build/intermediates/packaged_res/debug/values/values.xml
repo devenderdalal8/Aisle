@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="brown">#9B9B9B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#F9CB10</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="_00_29">00:29</string>
+    <string name="_91">+91</string>
+    <string name="_91_9999999999">+91 9876543212</string>
+    <string name="_9999">1234</string>
+    <string name="app_name">Aisle</string>
+    <string name="code_error">Please give valid code</string>
+    <string name="continue_txt">Continue</string>
+    <string name="discover">Discover</string>
+    <string name="enter_your_number">Enter Your \nPhone Number</string>
+    <string name="enter_your_otp">Enter The \nOTP</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="interested_in_you">Interested In You</string>
+    <string name="matches">Matches</string>
+    <string name="notes">Notes</string>
+    <string name="otp_error">Please give valid otp</string>
+    <string name="personal_messages_to_you">Personal messages to you</string>
+    <string name="phone_error">Please give phone number</string>
+    <string name="phone_number">9876543212</string>
+    <string name="premium_members_can_nview_all_their_likes_at_once">Premium members can \nview all their likes at once</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="upgrade">Upgrade</string>
+    <style name="Base.Theme.Aisle" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Aisle" parent="Base.Theme.Aisle"/>
+</resources>

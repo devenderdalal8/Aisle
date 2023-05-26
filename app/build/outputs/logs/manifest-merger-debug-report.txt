@@ -1,0 +1,388 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.databinding:databinding-adapters:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\28e52c5f523c335e1bda81c44733b299\transformed\databinding-adapters-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a3c5d723e1073dfc18bddabd6689a703\transformed\databinding-ktx-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\559efcd43dc96fc854fa6ee6e8021b88\transformed\databinding-runtime-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\9d61d52b62c9dc555edc4043f3a03eaa\transformed\viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\500a6aef6ef0cbdd0605565cca20be48\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\79bbcb0c06b75d96d3bbea43f036034f\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\72aa88c673534fa1fae8adc04fc365bc\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\c5f2bc7ef0159f9f95fb7ba4cd24ec53\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\d0ef0816b5861b2b7112ef320b7a7bd7\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\0096694f138d154bcb2a05f92917eee0\transformed\navigation-ui-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\3a421f2e07626b3401178307356c90b3\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.43.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\e531437572e12720e7c4a381b68422e7\transformed\hilt-android-2.43.2\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\0b54a80d082600ddae4479ca42d59c0a\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\99fbf2dfcad9e28df033717f09ba43ab\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\66b308688608aa62741c976c2d3acafe\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6b2cda3090710106b6f0fa8978d7742c\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [jp.wasabeef:glide-transformations:4.3.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\713e1a58960eb00406229f54192b20e9\transformed\glide-transformations-4.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\90e0e7b3a52d72061344e9d979d8ff6a\transformed\glide-4.13.2\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4386d668235bf16011bc859470180f85\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\68ce1910a7df4606f54d79b044142e8e\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\5d668f035eee2fe2d9d5638d70e7ee59\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bd9e6225b373d6e1dfb576ba09a0e134\transformed\activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\192771fed2b9eca49a7502fd6fa801ef\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1d70f2691b529d1a318d7c3eabd1d762\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\137c6b5b6e3b17d8277c9d8bd3b073bc\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\28c68263c2b3674f54210fe98c495750\transformed\lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\2bce33c82269960ada7c0946a632d6f6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\7e4284b181d2b56ae59efe5c08137d17\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1147fed90ae69734efe45bb36a84f4f5\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\dd7d069148a07afdeff6aba9e597af1e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6037ed3ef1e2d73505a85affcbb70760\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\224eeb26d6d72b2b93a377a5e5f64dff\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\ae510675cf7455e264bc64eb0c656409\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [jp.co.cyberagent.android:gpuimage:2.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\083e7ed2299571ccf8eeeb4a4c60b831\transformed\gpuimage-2.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a43d8dc28c87e691adc012ff99ccad5d\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\87626216ffc406a8d8a79874a1446734\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\205fc9902bdc7c1a4a13c3fa76c472ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\764b0a509a32f105c0180929f0624f5d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1f28474b1fb1786cc01839622539b6ff\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\09004c5e2753e14b72faac58af214d8e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4bf531e12c92add6444555beb5a203c0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1c677fc3649d63a8fb9ca8d84600cd0a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\e769b9c8dbc8f9817047a78e7bb74f19\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\d06f00374d7e62b4bf20af858c430094\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\905c9cec0ea208f246ac261bc2aa9648\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\d06a7a4e8f318daa3ba2ede847f371b2\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\2f63d9369b9b5686548d8c578b8345bc\transformed\gifdecoder-4.13.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\fd3016877e9f03304298491b9758f93a\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6121f6cf0b1b8141ed88ed1385810a13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\890ad481cc0f418e6179f0ab5603828f\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\147625650e41f8d6129dbf691fbb28c0\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\92e7682993e9ff32f207f53b9868adf4\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\65af2f5efc5bede643572ffd958dc045\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\35aa62de8e439a6d574439a0249d86fb\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\79613af1dac68d5c661444ae3a0ccc9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\ab57d38066a8281907c091f84ef41ed4\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\25473106d1bfa94fcfd58ecf56237b08\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\c27a96d41799fb4bf8e4a9c8ebe95465\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\eb171d043f6de228120dc13ee87894bb\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\9734457bd39190c80a0c4d3bb468ad60\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\859d3607b15f76abeb7f3d71c292b3f1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\c09c9f30a4c2c60745f7e2bbd1ce6811\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6b000b93f80372f3c4043cc01b8f8695\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\8b4dd5897a583f049fe5fcd43a76fa37\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.43.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\27ba46d6b9b1d11214632fff76a2136d\transformed\dagger-lint-aar-2.43.2\AndroidManifest.xml:16:1-19:12
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:8:5-38:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\0b54a80d082600ddae4479ca42d59c0a\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\0b54a80d082600ddae4479ca42d59c0a\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\99fbf2dfcad9e28df033717f09ba43ab\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\99fbf2dfcad9e28df033717f09ba43ab\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\90e0e7b3a52d72061344e9d979d8ff6a\transformed\glide-4.13.2\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\90e0e7b3a52d72061344e9d979d8ff6a\transformed\glide-4.13.2\AndroidManifest.xml:10:5-20
+MERGED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\2f63d9369b9b5686548d8c578b8345bc\transformed\gifdecoder-4.13.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\2f63d9369b9b5686548d8c578b8345bc\transformed\gifdecoder-4.13.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6121f6cf0b1b8141ed88ed1385810a13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6121f6cf0b1b8141ed88ed1385810a13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\79613af1dac68d5c661444ae3a0ccc9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\79613af1dac68d5c661444ae3a0ccc9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:17:9-43
+	android:dataExtractionRules
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:11:9-65
+	android:name
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:9:9-38
+activity#com.example.aisle.presenter.views.MainActivity
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:label
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:22:13-56
+	android:exported
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:21:13-36
+	android:theme
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:23:13-72
+	android:name
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:20:13-57
+activity#com.example.aisle.presenter.views.LoginActivity
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:exported
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:27:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.aisle.presenter.views.OtpActivity
+ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml:36:13-56
+uses-sdk
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\28e52c5f523c335e1bda81c44733b299\transformed\databinding-adapters-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\28e52c5f523c335e1bda81c44733b299\transformed\databinding-adapters-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a3c5d723e1073dfc18bddabd6689a703\transformed\databinding-ktx-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a3c5d723e1073dfc18bddabd6689a703\transformed\databinding-ktx-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\559efcd43dc96fc854fa6ee6e8021b88\transformed\databinding-runtime-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\559efcd43dc96fc854fa6ee6e8021b88\transformed\databinding-runtime-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\9d61d52b62c9dc555edc4043f3a03eaa\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\9d61d52b62c9dc555edc4043f3a03eaa\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\500a6aef6ef0cbdd0605565cca20be48\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\500a6aef6ef0cbdd0605565cca20be48\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\79bbcb0c06b75d96d3bbea43f036034f\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\79bbcb0c06b75d96d3bbea43f036034f\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\72aa88c673534fa1fae8adc04fc365bc\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\72aa88c673534fa1fae8adc04fc365bc\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\c5f2bc7ef0159f9f95fb7ba4cd24ec53\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\c5f2bc7ef0159f9f95fb7ba4cd24ec53\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\d0ef0816b5861b2b7112ef320b7a7bd7\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\d0ef0816b5861b2b7112ef320b7a7bd7\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\0096694f138d154bcb2a05f92917eee0\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\0096694f138d154bcb2a05f92917eee0\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\3a421f2e07626b3401178307356c90b3\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\3a421f2e07626b3401178307356c90b3\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.43.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\e531437572e12720e7c4a381b68422e7\transformed\hilt-android-2.43.2\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.43.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\e531437572e12720e7c4a381b68422e7\transformed\hilt-android-2.43.2\AndroidManifest.xml:18:3-42
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\0b54a80d082600ddae4479ca42d59c0a\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\0b54a80d082600ddae4479ca42d59c0a\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\99fbf2dfcad9e28df033717f09ba43ab\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\99fbf2dfcad9e28df033717f09ba43ab\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\66b308688608aa62741c976c2d3acafe\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\66b308688608aa62741c976c2d3acafe\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6b2cda3090710106b6f0fa8978d7742c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6b2cda3090710106b6f0fa8978d7742c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:glide-transformations:4.3.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\713e1a58960eb00406229f54192b20e9\transformed\glide-transformations-4.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:glide-transformations:4.3.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\713e1a58960eb00406229f54192b20e9\transformed\glide-transformations-4.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\90e0e7b3a52d72061344e9d979d8ff6a\transformed\glide-4.13.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\90e0e7b3a52d72061344e9d979d8ff6a\transformed\glide-4.13.2\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4386d668235bf16011bc859470180f85\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4386d668235bf16011bc859470180f85\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\68ce1910a7df4606f54d79b044142e8e\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\68ce1910a7df4606f54d79b044142e8e\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\5d668f035eee2fe2d9d5638d70e7ee59\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\5d668f035eee2fe2d9d5638d70e7ee59\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bd9e6225b373d6e1dfb576ba09a0e134\transformed\activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bd9e6225b373d6e1dfb576ba09a0e134\transformed\activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\192771fed2b9eca49a7502fd6fa801ef\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\192771fed2b9eca49a7502fd6fa801ef\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1d70f2691b529d1a318d7c3eabd1d762\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1d70f2691b529d1a318d7c3eabd1d762\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\137c6b5b6e3b17d8277c9d8bd3b073bc\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\137c6b5b6e3b17d8277c9d8bd3b073bc\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\28c68263c2b3674f54210fe98c495750\transformed\lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\28c68263c2b3674f54210fe98c495750\transformed\lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\2bce33c82269960ada7c0946a632d6f6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\2bce33c82269960ada7c0946a632d6f6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\7e4284b181d2b56ae59efe5c08137d17\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\7e4284b181d2b56ae59efe5c08137d17\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1147fed90ae69734efe45bb36a84f4f5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1147fed90ae69734efe45bb36a84f4f5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\dd7d069148a07afdeff6aba9e597af1e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\dd7d069148a07afdeff6aba9e597af1e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6037ed3ef1e2d73505a85affcbb70760\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6037ed3ef1e2d73505a85affcbb70760\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\224eeb26d6d72b2b93a377a5e5f64dff\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\224eeb26d6d72b2b93a377a5e5f64dff\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\ae510675cf7455e264bc64eb0c656409\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\ae510675cf7455e264bc64eb0c656409\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [jp.co.cyberagent.android:gpuimage:2.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\083e7ed2299571ccf8eeeb4a4c60b831\transformed\gpuimage-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [jp.co.cyberagent.android:gpuimage:2.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\083e7ed2299571ccf8eeeb4a4c60b831\transformed\gpuimage-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a43d8dc28c87e691adc012ff99ccad5d\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a43d8dc28c87e691adc012ff99ccad5d\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\87626216ffc406a8d8a79874a1446734\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\87626216ffc406a8d8a79874a1446734\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\205fc9902bdc7c1a4a13c3fa76c472ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\205fc9902bdc7c1a4a13c3fa76c472ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\764b0a509a32f105c0180929f0624f5d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\764b0a509a32f105c0180929f0624f5d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1f28474b1fb1786cc01839622539b6ff\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1f28474b1fb1786cc01839622539b6ff\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\09004c5e2753e14b72faac58af214d8e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\09004c5e2753e14b72faac58af214d8e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4bf531e12c92add6444555beb5a203c0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4bf531e12c92add6444555beb5a203c0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1c677fc3649d63a8fb9ca8d84600cd0a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\1c677fc3649d63a8fb9ca8d84600cd0a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\e769b9c8dbc8f9817047a78e7bb74f19\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\e769b9c8dbc8f9817047a78e7bb74f19\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\d06f00374d7e62b4bf20af858c430094\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\d06f00374d7e62b4bf20af858c430094\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\905c9cec0ea208f246ac261bc2aa9648\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\905c9cec0ea208f246ac261bc2aa9648\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\d06a7a4e8f318daa3ba2ede847f371b2\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\d06a7a4e8f318daa3ba2ede847f371b2\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\2f63d9369b9b5686548d8c578b8345bc\transformed\gifdecoder-4.13.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\2f63d9369b9b5686548d8c578b8345bc\transformed\gifdecoder-4.13.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\fd3016877e9f03304298491b9758f93a\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\fd3016877e9f03304298491b9758f93a\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6121f6cf0b1b8141ed88ed1385810a13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6121f6cf0b1b8141ed88ed1385810a13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\890ad481cc0f418e6179f0ab5603828f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\890ad481cc0f418e6179f0ab5603828f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\147625650e41f8d6129dbf691fbb28c0\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\147625650e41f8d6129dbf691fbb28c0\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\92e7682993e9ff32f207f53b9868adf4\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\92e7682993e9ff32f207f53b9868adf4\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\65af2f5efc5bede643572ffd958dc045\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\65af2f5efc5bede643572ffd958dc045\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\35aa62de8e439a6d574439a0249d86fb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\35aa62de8e439a6d574439a0249d86fb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\79613af1dac68d5c661444ae3a0ccc9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\79613af1dac68d5c661444ae3a0ccc9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\ab57d38066a8281907c091f84ef41ed4\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\ab57d38066a8281907c091f84ef41ed4\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\25473106d1bfa94fcfd58ecf56237b08\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\25473106d1bfa94fcfd58ecf56237b08\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\c27a96d41799fb4bf8e4a9c8ebe95465\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\c27a96d41799fb4bf8e4a9c8ebe95465\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\eb171d043f6de228120dc13ee87894bb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\eb171d043f6de228120dc13ee87894bb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\9734457bd39190c80a0c4d3bb468ad60\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\9734457bd39190c80a0c4d3bb468ad60\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\859d3607b15f76abeb7f3d71c292b3f1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\859d3607b15f76abeb7f3d71c292b3f1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\c09c9f30a4c2c60745f7e2bbd1ce6811\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\c09c9f30a4c2c60745f7e2bbd1ce6811\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6b000b93f80372f3c4043cc01b8f8695\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6b000b93f80372f3c4043cc01b8f8695\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\8b4dd5897a583f049fe5fcd43a76fa37\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\8b4dd5897a583f049fe5fcd43a76fa37\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.43.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\27ba46d6b9b1d11214632fff76a2136d\transformed\dagger-lint-aar-2.43.2\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.43.2] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\27ba46d6b9b1d11214632fff76a2136d\transformed\dagger-lint-aar-2.43.2\AndroidManifest.xml:18:3-42
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HashStudioz\StudioProjects\Aisle\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\bfb7e9243c30298cef10bd5e01dec3e2\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6121f6cf0b1b8141ed88ed1385810a13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\6121f6cf0b1b8141ed88ed1385810a13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\54523f28dd03a62fde6ba62a8ec70171\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.aisle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.aisle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\4e625740ca4219390a4f77f0a33d8792\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HashStudioz\StudioProjects\News-App2\gradle\caches\transforms-3\a4da2af9677d8d7c15a66da66138796c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

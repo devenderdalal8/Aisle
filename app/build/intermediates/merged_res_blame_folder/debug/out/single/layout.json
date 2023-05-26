@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.aisle.app-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "com.example.aisle.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.aisle.app-mergeDebugResources-4:/layout/fragment_notes.xml",
+        "source": "com.example.aisle.app-main-7:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "com.example.aisle.app-mergeDebugResources-4:/layout/activity_otp.xml",
+        "source": "com.example.aisle.app-main-7:/layout/activity_otp.xml"
+    },
+    {
+        "merged": "com.example.aisle.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.aisle.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.aisle.app-mergeDebugResources-4:/layout/fragment_discover.xml",
+        "source": "com.example.aisle.app-main-7:/layout/fragment_discover.xml"
+    },
+    {
+        "merged": "com.example.aisle.app-mergeDebugResources-4:/layout/fragment_matches.xml",
+        "source": "com.example.aisle.app-main-7:/layout/fragment_matches.xml"
+    },
+    {
+        "merged": "com.example.aisle.app-mergeDebugResources-4:/layout/fragment_profile.xml",
+        "source": "com.example.aisle.app-main-7:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.aisle.app-mergeDebugResources-4:/layout/item_profile.xml",
+        "source": "com.example.aisle.app-main-7:/layout/item_profile.xml"
+    }
+]

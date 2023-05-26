@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Aisle</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_your_number">Enter Your \nPhone Number</string>
+    <string name="enter_your_otp">Enter The \nOTP</string>
+    <string name="_91">+91</string>
+    <string name="phone_number">9876543212</string>
+    <string name="continue_txt">Continue</string>
+    <string name="_91_9999999999">+91 9876543212</string>
+    <string name="_9999">1234</string>
+    <string name="_00_29">00:29</string>
+    <string name="code_error">Please give valid code</string>
+    <string name="otp_error">Please give valid otp</string>
+    <string name="phone_error">Please give phone number</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="discover">Discover</string>
+    <string name="notes">Notes</string>
+    <string name="matches">Matches</string>
+    <string name="profile">Profile</string>
+    <string name="personal_messages_to_you">Personal messages to you</string>
+    <string name="interested_in_you">Interested In You</string>
+    <string name="premium_members_can_nview_all_their_likes_at_once">Premium members can \nview all their likes at once</string>
+    <string name="upgrade">Upgrade</string>
+</resources>

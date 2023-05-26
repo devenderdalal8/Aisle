@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".presenter.views.LoginActivity">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvGetNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginTop="80dp"
+            android:drawableEnd="@drawable/ic_edit_icon"
+            android:drawablePadding="10dp"
+            android:hint="@string/_91_9999999999"
+            android:textSize="18sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvEnterOtp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="@string/enter_your_otp"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tvGetNumber"
+            app:layout_constraintTop_toBottomOf="@+id/tvGetNumber" />
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/etEnterOTPCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/login_text_background"
+            android:hint="@string/_9999"
+            android:inputType="phone"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="7dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tvEnterOtp"
+            app:layout_constraintTop_toBottomOf="@+id/tvEnterOtp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnContinue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="19dp"
+            android:background="@drawable/button_background"
+            android:paddingHorizontal="17dp"
+            android:paddingVertical="11dp"
+            android:text="@string/continue_txt"
+            app:layout_constraintStart_toStartOf="@+id/etEnterOTPCode"
+            app:layout_constraintTop_toBottomOf="@+id/etEnterOTPCode" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvTimer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="12dp"
+            android:text="@string/_00_29"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@+id/btnContinue"
+            app:layout_constraintStart_toEndOf="@+id/btnContinue"
+            app:layout_constraintTop_toTopOf="@+id/btnContinue" />
+
+        <ProgressBar
+            android:id="@+id/progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:indeterminateTint="@color/yellow"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.5" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
